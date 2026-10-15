@@ -1,0 +1,25 @@
+{
+  "name": "ram-klinik",
+  "private": true,
+  "version": "2.4.0",
+  "description": "Sistem Informasi Klinik, Rekam Medis (RME) & Billing Kasir",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  },
+  "keywords": [
+    "klinik, rekam medis & apotek",
+    "pos",
+    "saas",
+    "dashboard",
+    "tailwind",
+    "ram-ai"
+  ],
+  "author": "Arie Isnain <info@ram.ai.id>",
+  "license": "MIT"
+}
